@@ -1,0 +1,17 @@
+Creating   'context.eep'
+Creating   'context.hex'
+Creating   'context.obj'
+Creating   'context.lis'
+Creating   'context.map'
+
+Assembling 'context.asm'
+Including  'C:\VMLAB\include\m8def.inc'
+
+Program memory usage:
+Code             :   63 words
+Constants (dw/db):    0 words
+Unused           :    0 words
+Total            :   63 words
+
+Assembly complete with no errors.
+Deleting   'context.eep'
